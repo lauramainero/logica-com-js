@@ -5,6 +5,7 @@ Pergunte ao usuário qual é o dia da semana. Se a resposta for "Sábado" ou "Do
 
 ```Javascript
 let diaDaSemana = prompt('Qual é o dia da semana?');
+
 if (diaDaSemana == 'Sábado' || diaDaSemana == 'Domingo') {
     alert('Bom fim de semana!');
 } else {
@@ -17,6 +18,7 @@ Verifique se um número digitado pelo usuário é positivo ou negativo. Mostre u
 
 ```Javascript
 let numero = prompt('Digite um número inteiro');
+
 if (numero > 0) {
     alert('O número é positivo.');
 } else {
@@ -29,6 +31,7 @@ Crie um sistema de pontuação para um jogo. Se a pontuação for maior ou igual
 
 ```Javascript
 let pontuacao = 120;
+
 if (pontuacao >= 100) {
     console.log('Parabéns, você venceu!');
 } else {

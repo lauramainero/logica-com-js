@@ -21,13 +21,13 @@ let idade = 25;
 ## Desafio 4
 Defina uma variável `numeroDeVendas` e atribua a ela o valor 50.
 ```Javascript
-numeroDeVendas = 50;
+let numeroDeVendas = 50;
 ```
 
 ## Desafio 5
 Defina uma variável `saldoDisponivel` e atribua a ela o valor 1000.
 ```Javascript
-saldoDisponivel = 1000;
+let saldoDisponivel = 1000;
 ```
 
 ## Desafio 6
